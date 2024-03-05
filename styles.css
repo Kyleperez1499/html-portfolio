@@ -1,0 +1,12 @@
+.Summary, .Tasks, .softwares, .Education, .Seminars, {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+
+.ACHIEVEMENTS {
+    text-transform: lowercase;
+}
+
+.Contact {
+    font-size: 25px;
+}
